@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+
+
+
+*{
+    direction: rtl;
+    color: #59ee34;
+    font-family: 'Lalezar', cursive;
+}
+
+.navbar-collapse{
+    direction: rtl;
+    
+}
+
+
+
+
+.css-1v0mbdj.etr89bj1 img{
+    border-radius: 11px;
+    width: 1000px;
+    text-align: center;
+    height: 250px;
+}
+
+.css-1wncz92.e16nr0p34 p{
+    background-color: #3a4636;
+    text-align: center;
+    border-radius: 11px;
+    border-style: groove;
+    padding: 11px;
+}
+.stMarkdown p{
+    color: #dbbd15;
+    text-align: center;
+}
+
+
+
+a{
+    background-color: #3a4636;
+    text-decoration: none;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+a:hover{
+    background-color: #4d793f;
+    box-shadow: #59ee34 1px 1px 9px;
+    text-decoration: none;
+    color: aliceblue;
+}
